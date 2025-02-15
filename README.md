@@ -1,7 +1,5 @@
 # ThreeJS Solar System Project
 
-This project was made following a crash course Taught by industry expert Jesse Zhou. Follow this link https://zerotomastery.io/courses/learn-three-js/ for more details on this course. Thank you to Jesse and Zero to Mastery for the helpful course videos.
-
 ### Features
 
 view our solar system in three.js. Scroll in, play with the lighting or even add your own planet to our brilliant solar system. 
