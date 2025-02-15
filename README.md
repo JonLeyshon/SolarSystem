@@ -4,7 +4,7 @@
 
 ### Features
 
-view our solar system in three.js.
+view our solar system in three.js. Scroll in, play with the lighting or even add your own planet to our brilliant solar system. 
 
 ### Prerequisites
 
